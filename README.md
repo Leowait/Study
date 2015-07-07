@@ -1,2 +1,0 @@
-# Study
-study c++
